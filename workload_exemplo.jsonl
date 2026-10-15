@@ -1,0 +1,10 @@
+{"id":1,"op":"put","key":91,"value":"Ana"}
+{"id":2,"op":"put","key":91,"value":"Karoline"}
+{"id":3,"op":"get","key":91}
+{"id":4,"op":"put","key":25,"value":"Computação"}
+{"id":5,"op":"delete","key":91}
+{"id":6,"op":"get","key":91}
+{"id":7,"op":"put","key":91,"value":"Novo valor"}
+{"id":8,"op":"get","key":91}
+{"id":9,"op":"get","key":25}
+{"id":10,"op":"get","key":999}

@@ -1,0 +1,73 @@
+{
+  "origem": "Relatorio agregado enviado pela integrante na conversa em 2026-10-15.",
+  "ambiente": {
+    "sistema": "Windows-11-10.0.26200-SP0",
+    "python": "3.14.4",
+    "cpus_logicas": 6,
+    "engine_sha256": "dcd3b5b5ae9ecd85b05e89c5d60a93e087b83732c3d854bdc987e4392731262f"
+  },
+  "dados_brutos_das_repeticoes_recebidos": false,
+  "observacao": "Medianas e maximos transcritos do resumo. Tamanhos em MiB arredondados a quatro casas. Seed e timestamp nao informados no trecho recebido; preservar ambiente.json e resultados.json originais.",
+  "resultados": [
+    {
+      "cenario": "insercoes",
+      "n": 200,
+      "repeticoes": 3,
+      "segundos_mediana": 0.083108,
+      "operacoes_s_mediana": 2406.5,
+      "pico_memoria_max_mib": 22.04,
+      "base_final_mib": 0.0283,
+      "crescimento_mib": 0.0283
+    },
+    {
+      "cenario": "leituras",
+      "n": 200,
+      "repeticoes": 3,
+      "segundos_mediana": 0.082094,
+      "operacoes_s_mediana": 2436.2,
+      "pico_memoria_max_mib": 21.98,
+      "base_final_mib": 0.0283,
+      "crescimento_mib": 0.0
+    },
+    {
+      "cenario": "mista",
+      "n": 200,
+      "repeticoes": 3,
+      "segundos_mediana": 0.10042,
+      "operacoes_s_mediana": 1991.6,
+      "pico_memoria_max_mib": 21.97,
+      "base_final_mib": 0.0383,
+      "crescimento_mib": 0.01
+    },
+    {
+      "cenario": "insercoes",
+      "n": 800,
+      "repeticoes": 3,
+      "segundos_mediana": 0.330156,
+      "operacoes_s_mediana": 2423.1,
+      "pico_memoria_max_mib": 22.02,
+      "base_final_mib": 0.1155,
+      "crescimento_mib": 0.1155
+    },
+    {
+      "cenario": "leituras",
+      "n": 800,
+      "repeticoes": 3,
+      "segundos_mediana": 1.225,
+      "operacoes_s_mediana": 653.1,
+      "pico_memoria_max_mib": 22.05,
+      "base_final_mib": 0.1155,
+      "crescimento_mib": 0.0
+    },
+    {
+      "cenario": "mista",
+      "n": 800,
+      "repeticoes": 3,
+      "segundos_mediana": 1.037179,
+      "operacoes_s_mediana": 771.3,
+      "pico_memoria_max_mib": 22.02,
+      "base_final_mib": 0.1592,
+      "crescimento_mib": 0.0437
+    }
+  ]
+}

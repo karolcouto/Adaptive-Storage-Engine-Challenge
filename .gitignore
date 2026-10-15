@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.bin
+resultados.jsonl
+resultados_linux.jsonl
+resultados_experimentos*/
+resultados_memoria*/
+base_demo*/

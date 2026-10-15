@@ -1,0 +1,22 @@
+{
+  "data_utc": "2026-10-15T20:32:45.769537+00:00",
+  "sistema": "Linux-6.18.44-x86_64-with-glibc2.39",
+  "python": "3.12.14",
+  "cpus_logicas": 9,
+  "processador": "x86_64",
+  "engine_sha256": "dcd3b5b5ae9ecd85b05e89c5d60a93e087b83732c3d854bdc987e4392731262f",
+  "parametros": {
+    "sizes": [
+      200,
+      800
+    ],
+    "repetitions": 3,
+    "seed": 20261015,
+    "value_bytes": 128,
+    "output_dir": "tmp/ed2_medicoes_memoria",
+    "memory_test": true,
+    "memory_records": 14000,
+    "memory_value_bytes": 4096,
+    "memory_limit_mib": 48
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "origem": "Resumo e saida do experimento de memoria enviados pela integrante em 2026-10-15.",
+  "ambiente": {
+    "sistema": "Windows-11-10.0.26200-SP0",
+    "python": "3.14.4",
+    "cpus_logicas": 6,
+    "engine_sha256": "dcd3b5b5ae9ecd85b05e89c5d60a93e087b83732c3d854bdc987e4392731262f"
+  },
+  "dados_brutos_da_repeticao_recebidos": false,
+  "resultado": {
+    "cenario": "memoria",
+    "n": 14000,
+    "repeticoes": 1,
+    "segundos": 10.593645,
+    "operacoes_por_segundo": 1323.4,
+    "pico_memoria_mib": 22.04,
+    "base_final_mib": 55.0213,
+    "crescimento_mib": 55.0213,
+    "base_maior_que_pico_memoria": true,
+    "limite_aplicado": false,
+    "limite_virtual_bytes": null,
+    "base_maior_que_limite_virtual": null
+  },
+  "observacao": "Tamanhos e pico arredondados conforme resumo fornecido. Sem limite imposto nesta execucao Windows. O script padrao executa 14.000 PUTs e 20 GETs neste cenario."
+}
