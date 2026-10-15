@@ -1,0 +1,29 @@
+[
+  {
+    "operacoes": 14020,
+    "segundos": 15.305441300035454,
+    "operacoes_por_segundo": 916.0140975463102,
+    "pico_memoria_bytes": 23097344,
+    "metodo_memoria": "Windows PeakWorkingSetSize",
+    "limite_virtual_bytes": null,
+    "bytes_base_antes": 8,
+    "bytes_base_depois": 57694008,
+    "crescimento_bytes": 57694000,
+    "registros_historicos": 14000,
+    "base_maior_que_pico_memoria": true,
+    "base_maior_que_limite_virtual": null,
+    "respostas_conferidas": 14020,
+    "chaves_vivas": 14000,
+    "bytes_valores_vivos": 57344000,
+    "cenario": "memoria",
+    "tamanho": 14000,
+    "repeticao": 1,
+    "seed": 20261015,
+    "contagem_operacoes": {
+      "put": 14000,
+      "get": 20,
+      "delete": 0
+    },
+    "correto": true
+  }
+]

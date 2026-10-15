@@ -1,0 +1,22 @@
+{
+  "data_utc": "2026-10-15T20:47:19.624040+00:00",
+  "sistema": "Windows-11-10.0.26200-SP0",
+  "python": "3.14.4",
+  "cpus_logicas": 6,
+  "processador": "Intel64 Family 6 Model 186 Stepping 3, GenuineIntel",
+  "engine_sha256": "dcd3b5b5ae9ecd85b05e89c5d60a93e087b83732c3d854bdc987e4392731262f",
+  "parametros": {
+    "sizes": [
+      200,
+      800
+    ],
+    "repetitions": 3,
+    "seed": 20261015,
+    "value_bytes": 128,
+    "output_dir": null,
+    "memory_test": true,
+    "memory_records": 14000,
+    "memory_value_bytes": 4096,
+    "memory_limit_mib": 48
+  }
+}
